@@ -5,10 +5,10 @@ I began my careeer as a Software Engineer in May of 2022. I had quickly discover
 
 
 
-<!-- ---
-# Personal Projects -->
+---
+# Personal Projects
 
-<!-- [![Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=rust_study&theme=dracula)](https://github.com/lborres/rust_study) -->
+[![Hex Chess](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=hexchess&theme=dark)](https://github.com/lborres/hexchess)
 
 <!-- [![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true)](https://github.com/lborres)  -->
 
