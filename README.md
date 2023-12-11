@@ -4,12 +4,12 @@ I began my careeer as a Software Engineer in May of 2022. I had quickly discover
 
 
 # Personal Projects
-[![Louis Borres Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=lborres-site&theme=onedark)](https://github.com/lborres/lborres-site)  [![Hex Chess](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=hexchess&theme=onedark)](https://github.com/lborres/hexchess)
+[![Louis Borres Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=lborres-site&theme=onedark&title_color=ADBAC7&text_color=ADBAC7&bg_color=22272E&hide_border=true)](https://github.com/lborres/lborres-site)  [![Hex Chess](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=hexchess&theme=onedark&title_color=ADBAC7&text_color=ADBAC7&bg_color=22272E&hide_border=true)](https://github.com/lborres/hexchess)
 
 
 # Stats
 
-[![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true&theme=onedark)](https://github.com/lborres) 
+[![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true&theme=onedark&title_color=ADBAC7&text_color=ADBAC7&bg_color=22272E&hide_border=true)](https://github.com/lborres) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lborres\&layout=donut-vertical&theme=onedark)](https://github.com/lborres/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lborres\&layout=donut-vertical&theme=onedark&title_color=ADBAC7&text_color=ADBAC7&bg_color=22272E&hide_border=true)](https://github.com/lborres/github-readme-stats)
 
