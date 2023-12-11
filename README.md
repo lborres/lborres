@@ -10,11 +10,9 @@ I began my careeer as a Software Engineer in May of 2022. I had quickly discover
 
 <!-- [![Rust Study](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=rust_study&theme=dracula)](https://github.com/lborres/rust_study) -->
 
----
+<!-- [![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true)](https://github.com/lborres)  -->
 
-[![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true)](https://github.com/lborres) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lborres\&layout=donut-vertical)](https://github.com/lborres/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lborres\&layout=donut-vertical)](https://github.com/lborres/github-readme-stats) -->
 
 <!--
 **lborres/lborres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
