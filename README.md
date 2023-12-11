@@ -7,8 +7,14 @@ I began my careeer as a Software Engineer in May of 2022. I had quickly discover
 
 ---
 # Personal Projects
+|   |   |
+|---|---|
+| [![Louis Borres Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=lborres-site&theme=onedark)](https://github.com/lborres/lborres-site)  |  [![Hex Chess](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=hexchess&theme=onedark)](https://github.com/lborres/hexchess) |
 
-[![Hex Chess](https://github-readme-stats.vercel.app/api/pin/?username=lborres&repo=hexchess&theme=onedark)](https://github.com/lborres/hexchess)
+
+
+
+
 
 <!-- [![Louis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lborres&show_icons=true)](https://github.com/lborres)  -->
 
