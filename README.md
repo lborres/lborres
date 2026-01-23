@@ -3,9 +3,9 @@
 📍 Based in Cebu, Philippines
 
 
-I began my career as a Software Engineer in May of 2022. I had quickly discovered how much I enjoyed solving problems involving software and have since been passionately honing my skills.
+**Self-taught, passionate Software Engineer (since May 2022)** — I build dependable backends and automation for large Oracle and PostgreSQL databases (shell scripts + CI/CD) and create web apps with Go+TypeScript. Coffee-fueled tinkerer.
 
-Feel free to contact me. I would love to hear about your next project idea.
+Got an idea or a wild problem? Let’s build something — ping me on LinkedIn or send an email. 💬
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louisborres/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lborresbusiness@gmail.com)
