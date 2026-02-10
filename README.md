@@ -3,7 +3,7 @@
 📍 Based in Cebu, Philippines
 
 
-**Self-taught, passionate Software Engineer (since May 2022)** — I create web apps with Go+TypeScript abd build dependable backends and automation for large Oracle and PostgreSQL databases (shell scripts + CI/CD). Coffee-fueled tinkerer.
+**Self-taught, passionate Software Engineer (since May 2022)** — I create web apps with Go+TypeScript and build dependable backends and automation for large Oracle and PostgreSQL databases (shell scripts + CI/CD). Coffee-fueled tinkerer.
 
 Got an idea or a wild problem? Let’s build something — ping me on LinkedIn or send an email. 💬
 
